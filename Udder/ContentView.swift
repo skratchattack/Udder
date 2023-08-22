@@ -16,7 +16,7 @@ struct ContentView: View {
             Image("cow")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Udder")
+            Text("Udder Moo")
                 .font(.title)
                 .fontWeight(.black)
                 .position(CGPoint(x: 305, y: 600))
